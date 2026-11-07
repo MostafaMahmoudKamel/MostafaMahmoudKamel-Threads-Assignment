@@ -1,4 +1,4 @@
-﻿namespace Thread_Assignment
+﻿namespace _01_InvoiceExport
 {
     internal class Program
     {
