@@ -1,0 +1,31 @@
+<Solution>
+  <Folder Name="/01-InvoiceExport/">
+    <Project Path="01_InvoiceExport/InvoiceExport.csproj" Id="a2b0e1d4-b494-4ccd-8ec6-ae8a9fe36ab5" />
+  </Folder>
+  <Folder Name="/02-TableBooking/">
+    <File Path="Answer.md" />
+    <Project Path="02_TableBooking/TableBooking.csproj" Id="93f42a0f-efa1-4dea-b914-090da49d9f0a" />
+  </Folder>
+  <Folder Name="/03-LockingResearch/">
+    <File Path="Answers.md" />
+  </Folder>
+  <Folder Name="/04-MenuViews/">
+    <Project Path="04_MenuViews/MenuViews.csproj" Id="943eb481-99e4-49ed-86ea-f242e06f93f7" />
+  </Folder>
+  <Folder Name="/05-ViewsAndEmails/">
+    <Project Path="05-ViewsAndEmails/ViewsAndEmails.csproj" Id="1e18fa78-73e2-4e3d-a1a6-70aa984360bf" />
+  </Folder>
+  <Folder Name="/06-OrderProcessing/">
+    <Project Path="06-OrderProcessing/OrderProcessing.csproj" Id="f3aa382b-0a33-4514-bc87-fa18f8a2f271" />
+  </Folder>
+  <Folder Name="/06-OrderProcessing/Sample-Output/" />
+  <Folder Name="/06-OrderProcessing/screenshots/">
+    <File Path="C:/Users/mk427/Downloads/Phase1_Output.png" />
+    <File Path="C:/Users/mk427/Downloads/phase2_.png" />
+    <File Path="C:/Users/mk427/Downloads/Phase4.png" />
+    <File Path="C:/Users/mk427/Downloads/phase_3.png" />
+  </Folder>
+  <Folder Name="/LinkedIn/">
+    <File Path="linked.md" />
+  </Folder>
+</Solution>
